@@ -9,6 +9,7 @@ html, body {
     background-image: linear-gradient(to right, #8200AF, #c000ce);
     display:flex;
     justify-content:space-around;
+    text-align:center;
 }
 
 .big_ol_header_text {
@@ -43,7 +44,7 @@ html, body {
     padding: 5px 16px;
     border-radius: 40px;
     color: black;
-    font-size: 14px;
+    font-size: 30px;
     z-index: 9; 
 }
 .side_el {
